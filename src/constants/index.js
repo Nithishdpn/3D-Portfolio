@@ -130,7 +130,7 @@ const experiences = [
     company_name: "anasoft",
     img: anasoftImage,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2022 - Aug 2023",
     points: [
       "Developing and maintaining web and mobile applications using React.js, React Native, and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,7 +143,7 @@ const experiences = [
     company_name: "12tech",
     img: TWtechlogoImage,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Oct 2023 - March 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -156,7 +156,7 @@ const experiences = [
     company_name: "Zephyr",
     img: ZephyrlogoImage,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Apr 2024 - Aug 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
