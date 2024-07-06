@@ -33,6 +33,9 @@ import portfolioImage from './portfolio.png';
 import  dpImage from './dp.jpeg';
 import  nishImage from './nish.jpeg';
 import  maniImage from './mani.jpeg';
+import  one from './one.png';
+import  two from './two.png';
+import  three from './three.png';
 
 
 export const navLinks = [
@@ -317,4 +320,27 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const achievements = [
+  {
+    name: "Java-Mastering the Fundamentals",
+    description:
+      "Completed a comprehensive course on Java programming, covering fundamental concepts such as object-oriented programming, data types, control structures, and exception handling. Developed several small projects to reinforce understanding of core Java principles.",
+    image: one,
+  },
+  {
+    name: "Problem Solving (HackerRank)",
+    description:
+      "Achieved proficiency in problem-solving by tackling a variety of coding challenges on HackerRank. Focused on algorithmic techniques, data structures, and logic problems to enhance analytical skills, core Java principles and coding efficiency knowledge to practical problems.",
+    image: two,
+  },
+  {
+    name: "DSA in Java (Intermediate)",
+    description:
+      "Engaged in an in-depth study of Data Structures and Algorithms using Java. Topics included arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, and dynamic programming. Implemented multiple projects to apply theoretical knowledge to practical problems.",
+    image: three,
+  },
+];
+
+
+
+export { services, technologies, experiences, testimonials, projects, achievements };
