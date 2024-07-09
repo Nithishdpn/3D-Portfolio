@@ -36,6 +36,7 @@ import  maniImage from './mani.jpeg';
 import  one from './one.png';
 import  two from './two.png';
 import  three from './three.png';
+import  teamImage from './team.png';
 
 
 export const navLinks = [
@@ -317,6 +318,40 @@ const projects = [
     ],
     image: blogImage,
     source_code_link: "https://github.com/Nithishdpn/lagori-web",
+  },
+
+   {
+    name: "Team",
+    description:
+      "Developed an enterprise-ready video conferencing app using Next.js 14, Stream, and Tailwind CSS. Host and join video meetings with seamless communication experience.",
+    tags: [
+      {
+        name : "next.js 14",
+        color : "blue-text-gradient"
+      },
+      {
+        name : "typescript",
+        color : "green-text-gradient"
+      },
+      {
+         name : "clerk",
+         color : "pink-text-gradient"
+      },
+      {
+         name : "getstream",
+         color : "purple-text-gradient"
+      },
+      {
+         name : "shadcn",
+         color : "yellow-text-gradient"
+      },
+      {
+         name : "tailwind css",
+         color : "orange-text-gradient"
+      },
+    ],
+    image: teamImage,
+    source_code_link: "https://github.com/Nithishdpn/live-interviewer/tree/master",
   },
 ];
 
