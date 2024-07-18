@@ -36,6 +36,7 @@ import  maniImage from './mani.jpeg';
 import  one from './one.png';
 import  two from './two.png';
 import  three from './three.png';
+import  four from './four.png';
 import  teamImage from './team.png';
 
 
@@ -374,6 +375,12 @@ const achievements = [
       "Engaged in an in-depth study of Data Structures and Algorithms using Java. Topics included arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, and dynamic programming. Implemented multiple projects to apply theoretical knowledge to practical problems.",
     image: three,
   },
+  {
+    name: "Introduction to MERN Stack",
+    description:  "Explored MongoDB, Express.js, React.js, and Node.js (MERN stack) for full-stack development. Covered database setup, RESTful API creation, dynamic front-end development, and application deployment. Developed projects to integrate and apply these technologies.",
+    image: four,
+  },
+  
 ];
 
 
